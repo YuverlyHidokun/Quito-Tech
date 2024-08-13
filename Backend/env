@@ -1,0 +1,19 @@
+
+MONGODB_URI = mongodb+srv://teamkhaoselmly:st9Gyz9UB7VYmvhE@khaoscluster.4ll38ey.mongodb.net/TIENDASBDD
+
+URL_BACKEND = http://localhost:3000/api
+URL_FRONTEND = http://localhost:5173/
+
+// SMTP DE GMAIL
+HOST_MAILTRAP = smtp.gmail.com
+PORT_MAILTRAP = 465
+USER_MAILTRAP = mateogarzonfsa@gmail.com  
+PASS_MAILTRAP = ojhvdwpfrfdcrvpn
+
+
+# VITE_BACKEND_URL=http://localhost:3000/api/
+VITE_BACKEND_URL=https://backend-api-tiendas.onrender.com/api
+
+URL_FRONTEND = http://localhost:5173/
+//JWT
+JWT_SECRET = SDFGSJDF7246782CFBKJSDF
